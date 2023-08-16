@@ -1,0 +1,31 @@
+div.appview-container.css-1wrcr25.e1g8pov66{
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg,#522157,#004e92);
+}
+[data-testid = "stSidebar"]{
+    background-color: #0093E9;
+    background-image: linear-gradient(to top right, #7b4397,#185a9d);
+}
+div.appview-container.css-1wrcr25.e1g8pov66.css-1wrcr25{
+    color: #ffa31d;
+}
+div.element-container.css-dxziok.esravye2{
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg,#522157,#004e92);
+}
+[data-testid = "block-container"]{
+    background-color: #0093E9;
+    background-image: linear-gradient(to top right, #7b4397,#185a9d);
+}
+[data-testid = "stAppViewContainer"]{
+    background-color: #0093E9;
+    background-image: linear-gradient(to top right, #7b4397,#185a9d);
+}
+section.main.css-uf99v8.e1g8pov65{
+    background-color: #0093E9;
+    background-image: linear-gradient(to top right, #7b4397,#185a9d);
+}
+div.stApp.stAppEmbeddingId-rxxfk9qjlwo4.streamlit-wide.css-rafreh.e14zl3901{
+    background: #0093E9;
+    background-image: linear-gradient(to top right, #7b4397,#185a9d);
+}
