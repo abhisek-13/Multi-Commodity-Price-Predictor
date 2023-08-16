@@ -13,14 +13,14 @@ st.set_page_config(layout = "wide")
 st.write("Hii, I am Abhisek. Welcome to my Website :wave:")
 
 # for background color and font color
-with open("style/colour.css") as source_des:
+with open("colour.css") as source_des:
     st.markdown(f"<style>{source_des.read()}</style>",unsafe_allow_html = True)
     
 def local_css(filename):
 	with open(filename) as f:
 		st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html=True)
 
-local_css("style\style.css")
+local_css("style.css")
 
 # importing datasets for navigation bar
 lap = pd.read_csv("lap_price2.csv")
