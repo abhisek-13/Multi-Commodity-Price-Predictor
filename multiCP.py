@@ -6,7 +6,7 @@ import numpy as np
 import json
 from PIL import Image
 import requests
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 
 # making wider webpage
 st.set_page_config(layout = "wide")
