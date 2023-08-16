@@ -2,5 +2,3 @@ streamlit
 scikit-learn
 streamlit_option_menu
 streamlit_lottie
-PIL
-requests
