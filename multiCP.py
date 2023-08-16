@@ -65,7 +65,7 @@ if (selected == 'Laptop'):
             st.title("Laptop Price Predictor")
             st.subheader("Get the Best Price of your Laptop")
         st.write('---')
-        car_img = Image.open("image/lap_img.png")
+        car_img = Image.open("lap_img.png")
     
         with right_column:
             st.image(car_img,width = 200)
@@ -139,7 +139,7 @@ if (selected == 'Car'):
             st.title("Car Price Predictor")
             st.subheader("Find Best Price of your Car")
         
-        car_img = Image.open("image/car_img.png")
+        car_img = Image.open("car_img.png")
     
         with right_column:
             st.image(car_img,width = 250)
@@ -191,7 +191,7 @@ if (selected == 'Bike'):
         with left_column:
             st.title("Bike Price Predictor")
             st.subheader("Find the Best Value of your Bike")
-        bike_img = Image.open("image/bike_img.png")
+        bike_img = Image.open("bike_img.png")
     
         with right_column:
             st.image(bike_img,width = 250)
