@@ -33,7 +33,7 @@ The Multi-Commodity Price Predictor is a machine learning project designed to pr
 ## Usage
 1. Run the Streamlit application:
     ```bash
-    streamlit run app.py
+    streamlit run multiCP.py
     ```
 2. Open the provided local URL in your web browser.
 
