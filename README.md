@@ -23,7 +23,7 @@ The Multi-Commodity Price Predictor is a machine learning project designed to pr
 2. Create and activate a virtual environment:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    venv\Scripts\activate  # On Windows
     ```
 3. Install the required packages:
     ```bash
